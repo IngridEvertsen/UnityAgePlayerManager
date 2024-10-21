@@ -31,6 +31,3 @@ public class ageManager : MonoBehaviour
     }
 }
 
-git remote add origin https://github.com/IngridEvertsen/UnityAgePlayerManager.git
-git branch -M main
-git push -u origin main
